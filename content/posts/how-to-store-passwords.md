@@ -1,10 +1,10 @@
 +++
 author = "Vladislav Alexeyev"
-date = "2022-08-20T21:40:00Z"
-description = "Our purpose is to understand how to store this login/password pair on the server."
-slug = ""
+date = "2022-08-20T00:40:00Z"
+description = ""
+slug = "how-to-store-passwords"
 tags = ["passwords", "manual"]
-title = "Ways to store passwords"
+title = "Ways to store passwords 🔑"
 type = "post"
 +++
 

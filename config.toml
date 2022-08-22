@@ -1,4 +1,4 @@
 baseURL = '/'
 theme = "tale"
 languageCode = 'en-us'
-title = 'Vladislav Alexeyev'
+title = '{dev.alexeyev.me}'
